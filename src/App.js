@@ -30,7 +30,7 @@ function App() {
               </div>
 
           <Footer/>
-
+{/*#주석*/}
 
           </div>
           {/*wrap 끝*/}
