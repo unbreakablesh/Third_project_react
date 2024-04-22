@@ -47,7 +47,7 @@ export default function MapInfo() {
             " 입니다";
         setInfo(message);
     };
-    // 주석
+    // 주
 
     return (
         <Map // 지도를 표시할 Container
